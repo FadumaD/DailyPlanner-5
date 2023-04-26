@@ -1,4 +1,4 @@
-# Challenge5-Dayplanner
+# DailyPlanner-5
 
 Project Description:
 
@@ -17,6 +17,5 @@ How to Use the Project:
 Click generate password and apply all the criteria you want included in your password, in a second you will see a new passord.
 
 Website image:
-# Challenge5-Dayplanner
-# DailyPlanner-5
-# DailyPlanner-5
+
+![planner-screenshot](https://user-images.githubusercontent.com/117111465/234692826-c7f5225d-87e2-4923-8a1b-07affccb77fd.png)

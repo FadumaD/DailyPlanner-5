@@ -10,7 +10,7 @@ This project can be cloned from my repository via the git hub website by followi
 
 and can be cloned to your personal repo.
 
- This is the deployed link 
+ This is the deployed link :  https://fadumad.github.io/DailyPlanner-5/
 
 How to Use the Project:
 
